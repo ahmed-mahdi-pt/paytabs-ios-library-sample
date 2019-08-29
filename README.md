@@ -111,7 +111,7 @@ Paytabs
 
 
 
- [1]: https://dev.paytabs.com/docs-apis/#ios-sdk
+ [1]: https://dev.paytabs.com/docs/ios/
  [2]: https://www.paytabs.com/en/support/
  [3]: https://www.paytabs.com/en/terms-of-use/
  [4]: https://www.paytabs.com/en/privacy-policy/
